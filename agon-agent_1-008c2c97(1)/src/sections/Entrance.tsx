@@ -4,7 +4,7 @@ import { useCinematic, useStage } from "../lib/motion";
 import { PROJECT } from "../lib/data";
 import Seal from "../components/Seal";
 
-const TITLE = "NORTHWEST COAST";
+const TITLE = "Transformation: The Living Art of the Kwakiutl";
 const META = ["10 artifacts", "4 living landscapes", "14,000 years of history"];
 
 /**
